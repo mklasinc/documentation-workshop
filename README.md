@@ -12,7 +12,6 @@ Materials related to the documentation workshop at NYU Abu Dhabi. The workshop f
 - [Follower by Lauren Mccarthy](http://lauren-mccarthy.com/Follower)
 - [Eve Weinberg](http://neveroddoreven.tv/filter/Interactive/SuperHero)
 - [Joaquin Kunkel](http://projects.joaquinkunkel.com/asocial)
-- [Harshini Karanuatne]
 
 **Code**
 - [Scott Garner - p5 video](https://github.com/scottgarner/p5.js-video)
