@@ -1,7 +1,7 @@
 # IM Documentation Workshop
 Materials related to the documentation workshop at NYU Abu Dhabi. The workshop focused on the features of good documentation and examples of well documented projects. The participants also had a chance to get their hands dirty by creating their own documentation of the [Lumarca](https://github.com/mklasinc/lumarca-workshop) volumetric display.
 
-## Links
+## Examples
 ### Bad Documentation
 - [My Intro to IM final](http://intro.nyuad.im/2015/12/17/ready-set-go/)
 
@@ -16,6 +16,14 @@ Materials related to the documentation workshop at NYU Abu Dhabi. The workshop f
 **Code**
 - [Scott Garner - p5 video](https://github.com/scottgarner/p5.js-video)
 - [The Gazelle](https://github.com/thegazelle-ad/gazelle-server)
+
+## Tools
+- [Screen capture](https://obsproject.com/)
+
+## Resources
+
+
+
 
 
 
